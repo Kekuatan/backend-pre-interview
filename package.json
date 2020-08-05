@@ -2,6 +2,9 @@
     "devDependencies": {
         "eslint": "^7.0.0"
     },
+    "scripts" : {
+        "build" : "node index.js"
+    },
     "name": "backend-pre-interview",
     "version": "1.0.0",
     "main": "index.js",
